@@ -1,8 +1,7 @@
-name = Unity_Dash
-version = 1.0
+name = UnityDash
+version = 1.1
 file = dash
 configs = settings.conf
 author = Mark Mandel
 description = Automates searching in the Unity Dash for an item and hitting enter on it. Source code can be found at: http://www.github.com/markmandel/Palaver_Dash
 actions = dash <item>,searches the dash for an item and then hits enter.
-dependencies = xdotool
