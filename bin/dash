@@ -1,0 +1,3 @@
+#!/bin/sh
+xdotool key Super && sleep 1 && xdotool type $1 && xdotool key Return
+
