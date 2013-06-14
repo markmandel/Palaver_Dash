@@ -1,0 +1,1 @@
+Plugin for palaver for searching the Unity Dash.
